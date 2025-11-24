@@ -1,0 +1,2 @@
+
+https://sites.millersville.edu/bikenaga/math-proof/truth-tables/truth-tables.html
