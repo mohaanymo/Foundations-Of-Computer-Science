@@ -1,15 +1,12 @@
+# Computer Science Fundamentals - Learning Journey
 
+I'm an undergraduate CS student diving deep into core computer science concepts to truly understand how things work under the hood. This repository documents my learning journey including resources, explanations, solved problems, and projects.
 
-# Learning journey of core computer science subjects
+## Goal
+Build a strong foundation in CS fundamentals to prepare for a career in software development.
 
-Hello, I am an undergraduate CS student who's trying to really understand the foundations of CS and dive deep on how things are actually work under the hood, I hope after few months of this I would get a good job.
-
-This repo would cover all my activity from resources, my explanation, solved problems, projects, etc...
-
-
-# Overview
-
-the courses I will take are structured in this way
+## Overview
+The courses are structured into five main areas:
 
 ## **Foundational Mathematics**
 
